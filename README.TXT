@@ -11,3 +11,10 @@ It is discussed in chapter 3.
 
 #41 Instrument number: 0 
 C (12) B (24) A (36)
+
+#43 Yes you can play it more than once.
+
+#45 external method call: if(!tune.getNotes().isEmpty())
+    internal method call: playTrack(sequence);
+    
+#46 
