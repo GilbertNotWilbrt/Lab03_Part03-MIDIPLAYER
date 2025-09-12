@@ -8,3 +8,6 @@ This project is part of the material for the book
    David J. Barnes and Michael Kölling
 
 It is discussed in chapter 3.
+
+#41 Instrument number: 0 
+C (12) B (24) A (36)
