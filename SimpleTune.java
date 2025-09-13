@@ -39,8 +39,8 @@ public class SimpleTune
      * List the notes and durations of the tune.
      */
     public void showNotes()
-    {
-        System.out.println("Instrument number: " + instrument);
+    { 
+            System.out.println("Instrument number: " + instrument);
         for(Note note : notes) {
             System.out.print(note.getNoteName() + " (" + note.getDuration() + ") ");
         }
