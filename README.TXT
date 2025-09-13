@@ -84,3 +84,10 @@ public void CreateAndPlay()
 
 The difference is its style: String.format("%02d", value) 
 is a shorter, cleaner way to write the same thing.
+
+#55 Each Step runs the current line and highlights the next.
+Method calls run fully in one step.
+
+#58 Step Into jumps inside addNote, showing the call chain and
+ letting you watch local and instance variables update.
+ 
